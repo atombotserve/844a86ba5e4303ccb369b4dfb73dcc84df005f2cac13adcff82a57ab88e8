@@ -1,0 +1,12 @@
+{
+      "name": "844a86ba5e4303ccb369b4dfb73dcc84df005f2cac13adcff82a57ab88e8",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "วิธีการดูผลรางวัลหวยหุ้นดาวโจนส์ หวยมาเล ย์ 24 ประตู ที่ HUAY เล่นที่ไหน",
+      "repository": "https://github.com/atombotserve/844a86ba5e4303ccb369b4dfb73dcc84df005f2cac13adcff82a57ab88e8",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
